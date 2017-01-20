@@ -62,9 +62,35 @@ sleep(0.5)
   sleep(3.0)
 
   puts "BECAUSE IT HAS #{count(winner, response)} PUBLIC PARK TOILETS (no other factors were used in this calculation) "
-  puts "SO ITS LITERALLY THE SHIT"
+
+sleep (2.0)
+  puts "SO ITS LITERALLY THE SHIT..."
+sleep (1.0)
+puts "
+             _____
+           /      )
+           |___  U?(____
+            _\L.   |      \      ___
+           / /"""'/\ .-''  |    |\  |
+          ( /  _/u     |    \___|_)_|
+           \|  \\      /   / \_(___ __)
+            |   \\    /   /  |  |    |
+            |    )  _/   /   )  |    |
+            _\__/.-\'    /___(  |    |
+            _/  __________/  \  |    |
+          //  /  (            ) |    |
+         ( \__|___\    \____ /__|____|
+          \    (___\   |______)_/
+           \   |\   \  \     /
+            \  | \__ )  )___/
+             \  \  )/  /__(
+         ___ |  /_//___|   \_________
+            _/  ( / OUuuuu  \
+          `/----/''(____________)'
+
+
 # end
 # puts  "#{request}'s power level is #{response.select { |hash| hash['borough'] == request }.length * rand(100) + 9000}."
-
-
+#
+#
 # puts return_number(request)
